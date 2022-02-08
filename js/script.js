@@ -1,4 +1,4 @@
-let palavras = ["programador", "algoritmo", "javascript", "html", "css", "web", "frontend", "backend", "fullstack", "desenvolvimento", "aplicativo", "jogo", "site", "software"];
+let palavras = ["avestruz", "anta", "alce", "aguia", "abutre", "boi", "burro", "bufalo", "bode", "canguru", "camelo", "cavalo", "capivara", "caranguejo", "crocodilo", "dromedario", "elefante", "esquilo", "egua", "foca", "flamingo", "girafa", "golfinho", "gaviao", "guepardo", "galinha", "hipopotamo", "harpia", "hiena", "iguana", "jumento", "jaguar", "leao", "lobo", "leopardo", "macaco", "mula", "mico", "orangotango", "onca", "ovelha", "pantera", "pavao", "papagaio", "preguica", "quati", "raposa", "riniceronte", "sabia", "sapo", "sucuri", "tartaruga", "tamandua", "tubarao", "topeira", "urso", "urubu", "veado", "vaca", "zebra"];
 
 let palavra = palavras[Math.floor(Math.random() * palavras.length)];
 
